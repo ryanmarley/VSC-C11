@@ -1,0 +1,8 @@
+Report for Ryan C: 
+# Name                     Price   Qty     Value
+1 Diamond Sword            10.25     5     51.25
+2 Crystal Dragon            9.95     3     29.85
+3 Glass Eye                 4.75     7     33.25
+4 China plate               5.99    30    179.70
+5 Hand mirror               4.49    20     89.80
+6 Glass apple               7.75    10     77.50

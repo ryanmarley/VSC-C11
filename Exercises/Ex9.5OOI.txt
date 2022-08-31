@@ -1,0 +1,61 @@
+0001 #include <iostream>
+0002 
+0003 using namespace std;
+0004 
+0005 class Student {  //class starts here, name of class is: Student 
+0006 
+0007   public:
+0008 
+0009     Student(string name, int ID,
+0010 
+0011             string hobby);  //Constructor prototype 
+0012 
+0013     string getName() const; //accessor prototype 
+0014 
+0015     void setName(string name); //mutator prototype 
+0016 
+0017 
+0018 
+0019   private:
+0020 
+0021     string _name;
+0022 
+0023     int _ID;
+0024 
+0025     string _hobby;
+0026 
+0027 }; //class end here 
+0028 
+0029 Student::Student(string name, int ID, string hobby)  { //constructor defined 
+0030 
+0031   _name = name;
+0032 
+0033   _ID = ID;
+0034 
+0035   _hobby = hobby;
+0036 
+0037 }
+0038 //all the methods are declared in class definition, and are defined under after the class definition
+0039 string Student::getName() const  { //accessor definition, const keyword since function doesn't change data members
+0040 
+0041   return _name;
+0042 
+0043 }
+0044 
+0045 void Student::setName(string name)  { //mutator definition
+0046 
+0047   _name = name;
+0048 
+0049 }
+0050 
+0051 int main() {
+0052 
+0053     Student student3("Ennio",  98765, "C+++"); //constructor called 
+0054 
+0055     student3.setName("Marco"); //mutator called 
+0056 
+0057     cout << "Student 3's name is " << student3.getName() << endl; //accessor called 
+0058 
+0059 }
+0060 
+0061 

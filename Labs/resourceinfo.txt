@@ -1,0 +1,30 @@
+Property list:
+# Address                       Rent Price                 Market Value 
+1 134 Melve Avenue              2700.00                      230000.00
+2 167 Ocean Street              2300.00                      250000.00
+3 567 Lincoln Street            4000.00                      300000.00
+4 678 Maple Street              3000.00                      350000.00
+5 737 Baker Drive               2500.00                      450000.00
+6 485 Beach Street              5000.00                      550000.00
+
+Tenant Resources:
+
+Helpful Things to Know:
+    1. At least 30 days notice is required for rent increase in CA (Civil Code 827).
+    2. You may file an FHA complaint at any moment you feel you are being discriminated against by your landlord.
+    3. After moving out, landlord is required to return the security deposit and or and itemized
+    accounting of why money was withheld and what it's being used for.
+    4. CA gives landlords 30 days to fix habitability problems, like those that endanger health and safety.
+    (Civil Code Sections 1941, 1941.1)
+    5. CA law allows landlords to enter rental unit for emergencies, when making agreed-upon or necessary repairs,
+    when a court order permits entry, and to inspect the installation of a waterbed. You must also be given
+    reasonable advance notice in writing, before entering.
+
+Useful Links:
+    1. If your rent increase was too high, fill out this criminal complaint form for price gouging - Penal Code 396:
+-> https://www.santacruzdistrictattorney.us/Portals/24/pdfs/Price%20Gouging%20Incident%20Report_1.pdf
+    2. Updates on CA Rent Control Laws city-by-city can be found using the link below:
+-> https://tinyurl.com/nolo-rent-control
+    3. California Tenants - A Guide To Residential Tenants' and Landlords' Rights and Responsibilities Handbook:
+->https://landlordtenant.dre.ca.gov/resources/guidebook/index.html
+

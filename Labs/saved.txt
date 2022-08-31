@@ -1,0 +1,20 @@
+Best Actor
+King Richard
+Will Smith
+1
+Best Director
+The Power of the Dog
+Jane Campion
+1
+Best Animated Feature
+Encanto
+
+0
+Best Picture
+Coda
+
+0
+Best Actress
+The Eyes of Tammy Faye
+Jessica Chastain
+1
